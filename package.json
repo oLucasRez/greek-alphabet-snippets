@@ -1,0 +1,22 @@
+{
+  "name": "greek-alphabet-snippets",
+  "displayName": "Greek Alphabet Snippets",
+  "description": "Snippets for writing greek letters.",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  },
+  "publisher": "lucas-rezende",
+  "icon": "assets/icon.png"
+}
