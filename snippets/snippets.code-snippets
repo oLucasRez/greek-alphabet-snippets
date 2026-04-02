@@ -1,365 +1,365 @@
 {
-  "ALPHA": {
+  "Α": {
     "prefix": "ALPHA",
     "body": ["Α"],
     "description": "Upper case alpha greek letter"
   },
-  "alpha": {
+  "α": {
     "prefix": "alpha",
     "body": ["α"],
     "description": "Lower case alpha greek letter"
   },
 
-  "BETA": {
+  "Β": {
     "prefix": "BETA",
     "body": ["Β"],
     "description": "Upper case beta greek letter"
   },
-  "beta": {
+  "β": {
     "prefix": "beta",
     "body": ["β"],
     "description": "Lower case beta greek letter"
   },
 
-  "GAMMA": {
+  "Γ": {
     "prefix": "GAMMA",
     "body": ["Γ"],
     "description": "Upper case gamma greek letter"
   },
-  "gamma": {
+  "γ": {
     "prefix": "gamma",
     "body": ["γ"],
     "description": "Lower case gamma greek letter"
   },
 
-  "DELTA": {
+  "Δ": {
     "prefix": "DELTA",
     "body": ["Δ"],
     "description": "Upper case delta greek letter"
   },
-  "delta": {
+  "δ": {
     "prefix": "delta",
     "body": ["δ"],
     "description": "Lower case delta greek letter"
   },
 
-  "EPSILON": {
+  "Ε": {
     "prefix": "EPSILON",
     "body": ["Ε"],
     "description": "Upper case epsilon greek letter"
   },
-  "epsilon": {
+  "ε": {
     "prefix": "epsilon",
     "body": ["ε"],
     "description": "Lower case epsilon greek letter"
   },
 
-  "ZETA": {
+  "Ζ": {
     "prefix": "ZETA",
     "body": ["Ζ"],
     "description": "Upper case zeta greek letter"
   },
-  "zeta": {
+  "ζ": {
     "prefix": "zeta",
     "body": ["ζ"],
     "description": "Lower case zeta greek letter"
   },
 
-  "ETA": {
+  "Η": {
     "prefix": "ETA",
     "body": ["Η"],
     "description": "Upper case eta greek letter"
   },
-  "eta": {
+  "η": {
     "prefix": "eta",
     "body": ["η"],
     "description": "Lower case eta greek letter"
   },
 
-  "THETA": {
+  "Θ": {
     "prefix": "THETA",
     "body": ["Θ"],
     "description": "Upper case theta greek letter"
   },
-  "theta": {
+  "θ": {
     "prefix": "theta",
     "body": ["θ"],
     "description": "Lower case theta greek letter"
   },
 
-  "IOTA": {
+  "Ι": {
     "prefix": "IOTA",
     "body": ["Ι"],
     "description": "Upper case iota greek letter"
   },
-  "iota": {
+  "ι": {
     "prefix": "iota",
     "body": ["ι"],
     "description": "Lower case iota greek letter"
   },
 
-  "KAPPA": {
+  "Κ": {
     "prefix": "KAPPA",
     "body": ["Κ"],
     "description": "Upper case kappa greek letter"
   },
-  "kappa": {
+  "κ": {
     "prefix": "kappa",
     "body": ["κ"],
     "description": "Lower case kappa greek letter"
   },
 
-  "LAMBDA": {
+  "Λ": {
     "prefix": "LAMBDA",
     "body": ["Λ"],
     "description": "Upper case lambda greek letter"
   },
-  "lambda": {
+  "λ": {
     "prefix": "lambda",
     "body": ["λ"],
     "description": "Lower case lambda greek letter"
   },
 
-  "MI": {
+  "Μ": {
     "prefix": "MI",
     "body": ["Μ"],
     "description": "Upper case mi greek letter"
   },
-  "mi": {
+  "μ": {
     "prefix": "mi",
     "body": ["μ"],
     "description": "Lower case mi greek letter"
   },
 
-  "NI": {
+  "Ν": {
     "prefix": "NI",
     "body": ["Ν"],
     "description": "Upper case ni greek letter"
   },
-  "ni": {
+  "ν": {
     "prefix": "ni",
     "body": ["ν"],
     "description": "Lower case ni greek letter"
   },
 
-  "CSI": {
+  "Ξ": {
     "prefix": "CSI",
     "body": ["Ξ"],
     "description": "Upper case csi greek letter"
   },
-  "csi": {
+  "ξ": {
     "prefix": "csi",
     "body": ["ξ"],
     "description": "Lower case csi greek letter"
   },
 
-  "OMIKRON": {
+  "Ο": {
     "prefix": "OMIKRON",
     "body": ["Ο"],
     "description": "Upper case omikron greek letter"
   },
-  "omikron": {
+  "ο": {
     "prefix": "omikron",
     "body": ["ο"],
     "description": "Lower case omikron greek letter"
   },
 
-  "PI": {
+  "Π": {
     "prefix": "PI",
     "body": ["Π"],
     "description": "Upper case pi greek letter"
   },
-  "pi": {
+  "π": {
     "prefix": "pi",
     "body": ["π"],
     "description": "Lower case pi greek letter"
   },
 
-  "RO": {
+  "Ρ": {
     "prefix": "RO",
     "body": ["Ρ"],
     "description": "Upper case ro greek letter"
   },
-  "ro": {
+  "ρ": {
     "prefix": "ro",
     "body": ["ρ"],
     "description": "Lower case ro greek letter"
   },
 
-  "SIGMA": {
+  "Σ": {
     "prefix": "SIGMA",
     "body": ["Σ"],
     "description": "Upper case sigma greek letter"
   },
-  "sigma": {
+  "σ": {
     "prefix": "sigma",
     "body": ["σ"],
     "description": "Lower case sigma greek letter"
   },
-  "sigma final": {
+  "ς": {
     "prefix": "sigma final",
     "body": ["ς"],
     "description": "Lower case final sigma greek letter"
   },
 
-  "TAU": {
+  "Τ": {
     "prefix": "TAU",
     "body": ["Τ"],
     "description": "Upper case tau greek letter"
   },
-  "tau": {
+  "τ": {
     "prefix": "tau",
     "body": ["τ"],
     "description": "Lower case tau greek letter"
   },
 
-  "UPSILON": {
+  "Υ": {
     "prefix": "UPSILON",
     "body": ["Υ"],
     "description": "Upper case upsilon greek letter"
   },
-  "upsilon": {
+  "υ": {
     "prefix": "upsilon",
     "body": ["υ"],
     "description": "Lower case upsilon greek letter"
   },
 
-  "PHI": {
+  "Φ": {
     "prefix": "PHI",
     "body": ["Φ"],
     "description": "Upper case phi greek letter"
   },
-  "phi": {
+  "φ": {
     "prefix": "phi",
     "body": ["φ"],
     "description": "Lower case phi greek letter"
   },
 
-  "CHI": {
+  "Χ": {
     "prefix": "CHI",
     "body": ["Χ"],
     "description": "Upper case chi greek letter"
   },
-  "chi": {
+  "χ": {
     "prefix": "chi",
     "body": ["χ"],
     "description": "Lower case chi greek letter"
   },
 
-  "PSI": {
+  "Ψ": {
     "prefix": "PSI",
     "body": ["Ψ"],
     "description": "Upper case psi greek letter"
   },
-  "psi": {
+  "ψ": {
     "prefix": "psi",
     "body": ["ψ"],
     "description": "Lower case psi greek letter"
   },
 
-  "OMEGA": {
+  "Ω": {
     "prefix": "OMEGA",
     "body": ["Ω"],
     "description": "Upper case omega greek letter"
   },
-  "omega": {
+  "ω": {
     "prefix": "omega",
     "body": ["ω"],
     "description": "Lower case omega greek letter"
   },
 
-  "STIGMA": {
+  "Ϛ": {
     "prefix": "STIGMA",
     "body": ["Ϛ"],
     "description": "Upper case stigma greek letter"
   },
-  "stigma": {
+  "ϛ": {
     "prefix": "stigma",
     "body": ["ϛ"],
     "description": "Lower case stigma greek letter"
   },
 
-  "QOPPA": {
+  "Ϙ": {
     "prefix": "QOPPA archaic",
     "body": ["Ϙ"],
     "description": "Upper case qoppa archaic greek letter"
   },
-  "qoppa": {
+  "ϙ": {
     "prefix": "qoppa archaic",
     "body": ["ϙ"],
     "description": "Lower case qoppa archaic greek letter"
   },
-  "QOPPA numeric": {
+  "Ϟ": {
     "prefix": "QOPPA numeric",
     "body": ["Ϟ"],
     "description": "Upper case qoppa numeric greek letter"
   },
-  "qoppa numeric": {
+  "ϟ": {
     "prefix": "qoppa numeric",
     "body": ["ϟ"],
     "description": "Lower case qoppa numeric greek letter"
   },
 
-  "SAMPI": {
+  "Ͳ": {
     "prefix": "SAMPI",
     "body": ["Ͳ"],
     "description": "Upper case sampi greek letter"
   },
-  "sampi": {
+  "ͳ": {
     "prefix": "sampi",
     "body": ["ͳ"],
     "description": "Lower case sampi greek letter"
   },
-  "SAMPI numeric": {
+  "Ϡ": {
     "prefix": "SAMPI numeric",
     "body": ["Ϡ"],
     "description": "Upper case sampi numeric greek letter"
   },
-  "sampi numeric": {
+  "ϡ": {
     "prefix": "sampi numeric",
     "body": ["ϡ"],
     "description": "Lower case sampi numeric greek letter"
   },
 
-  "DIGAMA": {
+  "Ϝ": {
     "prefix": "DIGAMA",
     "body": ["Ϝ"],
     "description": "Upper case digama obsolete greek letter"
   },
-  "digama": {
+  "ϝ": {
     "prefix": "digama",
     "body": ["ϝ"],
     "description": "Lower case digama obsolete greek letter"
   },
 
-  "HETA": {
+  "Ͱ": {
     "prefix": "HETA",
     "body": ["Ͱ"],
     "description": "Upper case heta obsolete greek letter"
   },
-  "heta": {
+  "ͱ": {
     "prefix": "heta",
     "body": ["ͱ"],
     "description": "Lower case heta obsolete greek letter"
   },
 
-  "SAN": {
+  "Ϻ": {
     "prefix": "SAN",
     "body": ["Ϻ"],
     "description": "Upper case san obsolete greek letter"
   },
-  "san": {
+  "ϻ": {
     "prefix": "san",
     "body": ["ϻ"],
     "description": "Lower case san obsolete greek letter"
   },
 
-  "SHO": {
+  "Ϸ": {
     "prefix": "SHO",
     "body": ["Ϸ"],
     "description": "Upper case sho obsolete greek letter"
   },
-  "sho": {
+  "ϸ": {
     "prefix": "sho",
     "body": ["ϸ"],
     "description": "Lower case sho obsolete greek letter"
