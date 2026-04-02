@@ -39,3 +39,8 @@ Capital letters can be written by typing the name of the letter in upper case, a
 |  Heta   |    `Ͱ`     |    `ͱ`     |
 |   San   |    `Ϻ`     |    `ϻ`     |
 |   Sho   |    `Ϸ`     |    `ϸ`     |
+
+## Usage
+Snippets can be activated by pressing `Ctrl+Space` and typing the trigger, for example `OMEGA`.
+Typing the trigger might already automatically show the snippet dropdown depending on your settings.
+See [the docs](https://code.visualstudio.com/docs/editing/userdefinedsnippets) for further info.
