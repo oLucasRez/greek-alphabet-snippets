@@ -76,15 +76,15 @@
     "description": "Lower case eta greek letter"
   },
 
-  "TETA": {
-    "prefix": "TETA",
+  "THETA": {
+    "prefix": "THETA",
     "body": ["Θ"],
-    "description": "Upper case teta greek letter"
+    "description": "Upper case theta greek letter"
   },
-  "teta": {
-    "prefix": "teta",
+  "theta": {
+    "prefix": "theta",
     "body": ["θ"],
-    "description": "Lower case teta greek letter"
+    "description": "Lower case theta greek letter"
   },
 
   "IOTA": {

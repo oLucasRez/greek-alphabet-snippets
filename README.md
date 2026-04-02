@@ -15,7 +15,7 @@ Capital letters can be written by typing the name of the letter in upper case, a
 | Epsilon |    `Ε`     |    `ε`     |
 |  Zeta   |    `Ζ`     |    `ζ`     |
 |   Eta   |    `Η`     |    `η`     |
-|  Teta   |    `Θ`     |    `θ`     |
+|  Theta  |    `Θ`     |    `θ`     |
 |  Iota   |    `Ι`     |    `ι`     |
 |  Kappa  |    `Κ`     |    `κ`     |
 | Lambda  |    `Λ`     |    `λ`     |
